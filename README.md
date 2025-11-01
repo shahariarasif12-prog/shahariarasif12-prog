@@ -1,6 +1,4 @@
-<h1 align="center" > 
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlsbjRmZ2pmZmFjbm4zYTEyMHYyN3I5YzVydHg5aDFncWJxdnA5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i59uCBAFz2ulhmOSBI/giphy.gif" width="50px" height="80px" />
-      What'sUpp 
+<h1 align="center" > What'sUpp 
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNubzlmbGlrOGp6Y3g4bGVqZjZsaWFpNzJuYjZkaWN1anJiMzhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CIayGxFu0KjRAFtn6b/giphy.gif" width="50px" height="80px" /> 
 </h1>
 <p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="80" height="80" /> </a> </p>
