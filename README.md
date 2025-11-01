@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+<div align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxc20yanh4NnN6N3I1bWR1eWYwaHlqcTBxajBoMXc0bGZ2c3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="270px" />
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px" />
+</div>
+
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -9,7 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxc20yanh4NnN6N3I1bWR1eWYwaHlqcTBxajBoMXc0bGZ2c3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="270px" />
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px" />
-</div>
+
