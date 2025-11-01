@@ -1,9 +1,11 @@
 <h1 align="center"> What's Up👋 </h1>
 
 <div align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxc20yanh4NnN6N3I1bWR1eWYwaHlqcTBxajBoMXc0bGZ2c3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="270px" />
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxc20yanh4NnN6N3I1bWR1eWYwaHlqcTBxajBoMXc0bGZ2c3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="400px" height="300px" /> 
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500px" height="300px" />
 </div>
+
+<h1>  </h1>
 
 - 🔭 I’m currently working on writing poem, manually testing apps & Data analyzing  
 - 🌱 I’m currently learning about machine learning & Data Science 
