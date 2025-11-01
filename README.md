@@ -1,12 +1,13 @@
-<h1 align="center" > What'sUpp 
+
+<h1 align="center" style="color:red"> What'sUpp 
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNubzlmbGlrOGp6Y3g4bGVqZjZsaWFpNzJuYjZkaWN1anJiMzhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CIayGxFu0KjRAFtn6b/giphy.gif" width="50px" height="80px" /> 
 </h1>
+
+</div>
 <p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="80" height="80" /> </a> </p>
 
 
 <h5 align="center"> B.Sc. in Computer Science & Engineering | American International University-Bangladesh (AIUB) </h5>
-
-
 
 
 <div align="center">
