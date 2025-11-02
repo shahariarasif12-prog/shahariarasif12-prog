@@ -55,3 +55,13 @@
   <a href="https://visualstudio.microsoft.com/#vs-section" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS" width="45" height="45"/> </a>
  </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahariarasif12-prog&show_icons=true&bg_color=e4e2e2&locale=en&layout=compact" alt="shahariarasif12-prog" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahariarasif12-prog&show_icons=true&bg_color=e4e2e2&locale=en" alt="shahariarasif12-prog" /></p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarasif12-prog&theme=prussian" alt="shahariarasif12-prog" /></p>
+
+
